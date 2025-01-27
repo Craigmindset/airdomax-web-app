@@ -1,0 +1,1 @@
+https://airdomax.vercel.app/
