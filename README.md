@@ -1,1 +1,1 @@
-https://airdomax.vercel.app/
+https://airdomax.com
